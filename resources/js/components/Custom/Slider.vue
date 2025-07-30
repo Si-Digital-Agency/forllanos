@@ -3,11 +3,9 @@ import { computed, ref, useTemplateRef, watch } from 'vue';
 import Banner from './Banner.vue';
 import SliderShowcase from './SliderShowcase.vue';
 import type { Car } from '../../types/index.d.ts';
-import { useWindowScroll } from '@vueuse/core';
 
 const el = useTemplateRef<HTMLElement>('el')
 const content = useTemplateRef<HTMLElement>('content')
-const { y } = useWindowScroll()
 const props = defineProps<{ items: Car[] }>();
 const counter = ref<number>(0)
 const itemsLength: number = props.items.length - 1

@@ -4,12 +4,10 @@ import CustomAppLayout from '../layouts/app/custom/CustomAppLayout.vue';
 import AppLogo from '@/components/AppLogo.vue';
 import Slider from '@/components/Custom/Slider.vue';
 import About from '@/components/Custom/About.vue';
+import {Car} from '../types/index';
 
 
-
-defineProps({
-    cars:Object
-})
+defineProps<{ cars: Car[] }>();
 </script>
 
 <template>
