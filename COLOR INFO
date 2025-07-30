@@ -1,0 +1,129 @@
+ { "id": 2, "engine": "Motor 2.0L EcoBoost®", "drive": "Tracción 4x4", "transmission": "Transmisión automática de 8 velocidades.", "power": "249 caballos de fuerza", "cars_id": 2 } 
+
+
+
+BRONCO BADLANDS
+1-[1,2,3,4,5,6,7]
+BRONCO SPORT
+2-[8,3,6,2,9,7,4]
+EVEREST ACTIVE
+3-[11,12,13,14,15]
+EVEREST TITANIUM
+4-[11,12,13,14,15]
+EXPEDITION
+5-[16,17,18,19,20,21,7]
+EXPLORER PLATINUM
+6-[22,21,23,6,20]
+RANGER RAPTOR
+7-[24,25,28,14,26]
+RANGER WILDTRAK
+8-[27,20,28,6,29,23,25]
+RANGER XLT
+9-[31,7,14,25,32,33,23]
+TERRITORY TREND
+10-[10,21,34,35,36,37,7]
+TERRITORY TITANIUM
+11-[10,21,34,35,36,37,7]
+
+
+BRONCO BADLANDS
+[]
+1 - "Azul Veloz", = (45deg, #2889dd, #1a5990)
+2 - "Negro Sombra", = (45deg, #3b3f52, #030405) 
+3 - "Verde Natura", = (45deg, #22783f , #0c2b16)
+4 - "Rojo Rubí", = (45deg, #9d0819,#730913)
+5 - "Gris Terra", = (45deg, #b4b4b4, #676767)
+6 - "Gris Carbónico", = (45deg, #555560, #111113)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8)
+
+BRONCO SPORT
+[]
+8 - "Azul Acero", = (45deg, #5a6875, #1f2428)
+3 - "Verde Natura", = (45deg, #22783f , #0c2b16)
+6 - "Gris Carbónico", = (45deg, #555560, #111113) 
+2 - "Negro Sombra", = (45deg, #3b3f52, #030405)
+9 - "Beige Tropical", = (45deg, #c8cbc7, #7c7e7c)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8) 
+4 - "Rojo Rubí", = (45deg, #9d0819, #730913)
+
+EVEREST ACTIVE
+[]
+11 - "Blanco Lunar", = (45deg, #dcdadb, #8f8e8e)
+12 - "Plata Estelar", = (45deg, #949395, #484748)
+13 - "Gris Cósmico", = (45deg, #54575f, #101012)
+14 - "Negro Puro", = (45deg, #202425, #000000)
+15 - "Blanco Ártico", = (45deg, #e3e1e0, #969594)
+
+EVEREST TITANIUM
+[]
+11 - "Blanco Lunar", = (45deg, #dcdadb, #8f8e8e)
+12 - "Plata Estelar", = (45deg, #949395, #484748)
+13 - "Gris Cósmico", = (45deg, #54575f, #101012)
+14 - "Negro Puro", = (45deg, #202425, #000000)
+15 - "Blanco Ártico", = (45deg, #e3e1e0, #969594)
+
+EXPEDITION
+[]
+16 - "Azul Roca", = (45deg, #394455, #050608)
+17 - "Gris Ártico", = (45deg, #8b91a4, #4a4d57)
+18 - "Plata Espacial", = (45deg, #abb1c1, #676a74)
+19 - "Gris Espacial", = (45deg, #4d4b4a, #000000)
+20 - "Negro Ágata", = (45deg, #333333, #000000)
+21 - "Blanco Galáctico", = (45deg, #eaeae1,#9d9d97)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8)
+
+EXPLORER PLATINUM
+[]
+22 - "Rojo Furia", = (45deg, #9d1a14, #500d0a)
+21 - "Blanco Galáctico", = (45deg, #eaeae1,#9d9d97)
+23 - "Plata Brillante", = (45deg, #c0c6c9, #767a7c)
+6 - "Gris Carbónico", = (45deg, #555560, #111113)
+20 - "Negro Ágata", = (45deg, #333333, #000000)
+
+RANGER RAPTOR
+[]
+24 - "Naranja Intenso", = (45deg, #d74f27, #8a3219)
+25 - "Azul Relámpago", = (45deg, #0156a0, #002c53)
+28 - "Blanco Ártico", = (45deg, #e3e1e0, #969594)
+14 - "Negro Puro", = (45deg, #202425, #000000)
+26 - "Gris Lunar", = (45deg, #b4b4b4, 676767)
+
+RANGER WILDTRAK
+[]
+27 - "Amarillo Desierto", = (45deg, #ffc936, #cca02b)
+20 - "Negro Ágata", = (45deg, #333333, #000000)
+28 - "Blanco Ártico", = (45deg, #e3e1e0, #1b1611ff)
+6 - "Gris Carbónico", = (45deg, #555560, #111113)
+29 - "Rojo Eclipse", = (45deg, #d41c2f, #87111e)
+23 - "Plata Brillante", = (45deg, #c0c6c9, #767a7c)
+25 - "Azul Relampago", = (45deg, #2c5cb9, #19356c)
+
+RANGER XLT
+[]
+31 - "Naranja Terra", = (45deg, #b34c1a, #662b0e)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8)
+14 - "Negro Puro", = (45deg, #202425, #000000)
+25 - "Azul Relampago", = (45deg, #2c5cb9, #19356c)
+32 - "Gris Magnético", = (45deg, #727473, #262727)
+33 - "Rojo Bari", = (45deg, #d41c2f, #87111e)
+23 - "Plata Brillante", = (45deg, #c0c6c9, #767a7c)
+
+TERRITORY TREND
+[]
+10 - "Rojo Rubí", = (45deg, #9d0819,#730913)
+21 - "Blanco Galáctico", = (45deg, #eaeae1,#9d9d97)
+34 - "Gris Estelar", = (45deg, #aeb6bd,#676c70)
+35 - "Azul Profundo", = (45deg, #7a8ba0,#3f4853)
+36 - "Marrón Caoba", = (45deg, #b5868e,#684d51)
+37 - "Negro Brillante", = (45deg, #303030, #000000)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8)
+
+TERRITORY TITANIUM
+[]
+10 - "Rojo Rubí", = (45deg, #9d0819,#730913)
+21 - "Blanco Galáctico", = (45deg, #eaeae1,#9d9d97)
+34 - "Gris Estelar", = (45deg, #aeb6bd,#676c70)
+35 - "Azul Profundo", = (45deg, #7a8ba0,#3f4853)
+36 - "Marrón Caoba", = (45deg, #b5868e,#684d51)
+37 - "Negro Brillante", = (45deg, #303030, #000000)
+7 - "Blanco Perla", = (45deg, #f5f5f5, #a8a8a8)
