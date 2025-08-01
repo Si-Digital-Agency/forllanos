@@ -11,7 +11,6 @@ use App\Models\Cars;
 
 class CarsController extends Controller
 {
-    
     // Get all cars
     public function index()
     {
